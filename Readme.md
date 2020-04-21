@@ -1,4 +1,4 @@
-DJango Installation
+Default Django Installation and Basic Test
 
 1. Make Virtual Environment Avaiilable. You should have Python 3 installed (Python 2 was deprecated)
 
