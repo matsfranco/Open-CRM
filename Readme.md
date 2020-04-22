@@ -1,3 +1,9 @@
+This CRM Project was built following the tutorial on the following link
+
+https://www.youtube.com/playlist?list=PLSPMgrv4IuJ4WLURdlzKNx4sgsyqW8d5q
+
+
+
 Default Django Installation and Basic Test
 
 1. Make Virtual Environment Avaiilable. You should have Python 3 installed (Python 2 was deprecated)
